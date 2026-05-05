@@ -30,11 +30,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GOKULNATH20072008&theme=github_dark" width="32%" />
 </p>
 
-<!-- Grade Style Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GOKULNATH20072008&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
 ---
 
 ### 🚀 Status
@@ -67,13 +62,6 @@
   <a href="#"><img src="https://img.shields.io/badge/HackerRank-Add%20Link-2EC866?style=for-the-badge&logo=hackerrank"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Telegram-Add%20Link-2CA5E0?style=for-the-badge&logo=telegram"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-Add%20Link-7289DA?style=for-the-badge&logo=discord"/></a>
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Platane/snk/blob/output/github-contribution-grid-snake-dark.svg" width="80%" />
 </p>
 
 ---
