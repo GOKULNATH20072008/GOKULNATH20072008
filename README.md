@@ -19,19 +19,6 @@
 
 ---
 
-### 🧠 GitHub Performance
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOKULNATH20072008&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOKULNATH20072008&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GOKULNATH20072008&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GOKULNATH20072008&theme=github_dark" width="32%" />
-</p>
-
----
-
 ### 🚀 Status
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-0f766e?style=for-the-badge" />
