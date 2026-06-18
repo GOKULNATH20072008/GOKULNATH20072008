@@ -48,7 +48,6 @@
 ### Achievements
 
 - 🎖️ Microsoft AI Skills Fest 2026 Badge
-- 📚 Harvard CS50P (In Progress)
 - 🏆 Hackathon Participant
 - ♿ Creator of AccessBridge
 - 💻 Multiple Personal Python Projects
@@ -96,7 +95,6 @@ Participated in online hackathons and built practical software solutions while l
 
 ## 🎯 Current Focus
 
-- Completing Harvard CS50P
 - Learning FastAPI
 - Learning PostgreSQL
 - Backend Development
