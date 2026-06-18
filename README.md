@@ -1,58 +1,130 @@
-<!-- Header -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&height=150&section=header&text=GOKULNATH%20S&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&height=180&section=header&text=GOKULNATH%20S&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0f766e&size=24&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Python+%7C+FastAPI+%7C+PostgreSQL;Learning+Everyday+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0f766e&size=24&center=true&vCenter=true&width=700&lines=Student+Developer;Python+Programmer;Building+Projects+and+Learning+Everyday;CS50P+Learner;Open+Source+and+Accessibility+Enthusiast" />
 </p>
 
----
-
-<h3 align="center">💻 Student | Backend Developer (Learning Phase)</h3>
+<h3 align="center">💻 Student Developer | Python Enthusiast</h3>
 
 <p align="center">
-  🚀 Building backend systems step by step <br>
-  📍 Tamil Nadu, India 🌍 Open to global opportunities
+  🚀 Learning by building real projects <br>
+  ♿ Interested in Accessibility, Automation, and Backend Development <br>
+  📍 Tamil Nadu, India
 </p>
 
----
-
-### 🚀 Status
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-0f766e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-FastAPI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System-Linux-orange?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=GOKULNATH20072008&label=Profile%20Views&color=0f766e&style=flat" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
+
+- 🎓 Incoming Computer Science Student
+- 🐍 Learning Python through Harvard CS50P
+- ♿ Building accessibility-focused software
+- 🏆 Participated in hackathons and project challenges
+- 🌱 Improving problem-solving and software development skills
+- 📚 Exploring Backend Development, APIs, Open Source, and AI
+
+---
+
+## 🏅 Certifications & Achievements
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,linux" />
+  <a href="https://www.credly.com/badges/61e95310-c846-4c93-942e-fd31c04e6e18/public_url" target="_blank">
+    <img src="./ai-skills-fest-2026.png" width="220" alt="Microsoft AI Skills Fest 2026 Badge" />
+  </a>
+</p>
+
+<p align="center">
+  🎖️ <b>Microsoft AI Skills Fest 2026</b><br>
+  Official digital credential issued through Microsoft and Credly.
+</p>
+
+### Achievements
+
+- 🎖️ Microsoft AI Skills Fest 2026 Badge
+- 📚 Harvard CS50P (In Progress)
+- 🏆 Hackathon Participant
+- ♿ Creator of AccessBridge
+- 💻 Multiple Personal Python Projects
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode" />
 </p>
 
 ---
 
-### 📂 Projects
+## 📂 Featured Projects
+
+### ♿ AccessBridge
+
+Accessibility-focused desktop assistant designed to help users interact with computers using alternative input methods.
+
+#### Features
+
+- 🎤 Voice Commands
+- 📡 Morse Code Input
+- ♿ Accessibility Tools
+- 🖥️ Desktop Assistance
+
+**Tech Used:** Python
+
+🔗 **Repository:** [AccessBridge](https://github.com/GOKULNATH20072008/AccessBridge)
+
+---
+
+### 🏆 Hackathon Projects
+
+Participated in online hackathons and built practical software solutions while learning:
+
+- Project Development
+- Problem Solving
+- Presentation Skills
+- Team Collaboration
+- Software Deployment
+
+---
+
+## 🎯 Current Focus
+
+- Completing Harvard CS50P
+- Learning FastAPI
+- Learning PostgreSQL
+- Backend Development
+- Data Structures & Algorithms
+- Open Source Contributions
+- Building Real-World Projects
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  🚧 Projects coming soon... (APIs, backend systems, real-world apps)
+  <a href="https://github.com/GOKULNATH20072008" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Add%20Link-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Add%20Link-2EC866?style=for-the-badge&logo=hackerrank"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-Add%20Link-2CA5E0?style=for-the-badge&logo=telegram"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-Add%20Link-7289DA?style=for-the-badge&logo=discord"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOKULNATH20072008&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKULNATH20072008&layout=compact&theme=github_dark"/>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ Consistency > Motivation | Build → Break → Learn → Repeat
+  <b>Build → Learn → Improve → Repeat 🚀</b>
 </p>
