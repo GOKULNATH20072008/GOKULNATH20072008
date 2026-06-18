@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0f766e&size=24&center=true&vCenter=true&width=700&lines=Student+Developer;Python+Programmer;Building+Projects+and+Learning+Everyday;CS50P+Learner;Open+Source+and+Accessibility+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0f766e&size=24&center=true&vCenter=true&width=700&lines=Student+Developer;Python+Programmer;Building+Projects+and+Learning+Everyday;CS50P+Learner" />
 </p>
 
 <h3 align="center">💻 Student Developer | Python Enthusiast</h3>
@@ -24,7 +24,6 @@
 ## 🚀 About Me
 
 - 🎓 Incoming Computer Science Student
-- 🐍 Learning Python through Harvard CS50P
 - ♿ Building accessibility-focused software
 - 🏆 Participated in hackathons and project challenges
 - 🌱 Improving problem-solving and software development skills
