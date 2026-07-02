@@ -46,6 +46,8 @@
 <p align="center">
   <a
 href="https://cs50.harvard.edu/certificates/6875fd2b-052c-4fd0-b5e8-7b31f6f44857" target="_blank">
+  <img src="./ai-skills-fest-2026.png" width="220" alt="Microsoft AI Skills Fest 2026 Badge" />
+
   </a>
 </p>
 ### Achievements
