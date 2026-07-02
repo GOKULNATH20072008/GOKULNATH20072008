@@ -24,7 +24,6 @@
 ## 🚀 About Me
 
 - 🎓 Incoming Computer Science Student
-- ♿ Building accessibility-focused software
 - 🏆 Participated in hackathons and project challenges
 - 🌱 Improving problem-solving and software development skills
 - 📚 Exploring Backend Development, APIs, Open Source, and AI
@@ -44,6 +43,11 @@
   Official digital credential issued through Microsoft and Credly.
 </p>
 
+<p align="center">
+  <a
+href="https://cs50.harvard.edu/certificates/6875fd2b-052c-4fd0-b5e8-7b31f6f44857" target="_blank">
+  </a>
+</p>
 ### Achievements
 
 - 🎖️ Microsoft AI Skills Fest 2026 Badge
@@ -76,7 +80,9 @@ Accessibility-focused desktop assistant designed to help users interact with com
 
 **Tech Used:** Python
 
-🔗 **Repository:** [AccessBridge](https://github.com/GOKULNATH20072008/AccessBridge)
+🔗 **Repository:** 
+[AccessBridge]
+(https://github.com/GOKULNATH20072008/AccessBridge)
 
 ---
 
