@@ -1,10 +1,9 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&height=180&section=header&text=GOKULNATH%20S&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0f766e&size=24&center=true&vCenter=true&width=700&lines=Student+Developer;Python+Programmer;Building+Projects+and+Learning+Everyday;CS50P+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0f766e&size=24&center=true&vCenter=true&width=700&lines=Student+Developer;Python+Programmer;Building+Projects+and+Learning+Everyday;CS50P+Graduate" />
 </p>
 
 <h3 align="center">💻 Student Developer | Python Enthusiast</h3>
@@ -34,24 +33,21 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/61e95310-c846-4c93-942e-fd31c04e6e18/public_url" target="_blank">
-    <img src="./ai-skills-fest-2026.png" width="220" alt="Microsoft AI Skills Fest 2026 Badge" />
+    <img src="./ai-skills-fest-2026.png" width="180" alt="Microsoft AI Skills Fest 2026 Badge" style="vertical-align:middle; margin:10px;" />
+  </a>
+  <a href="https://cs50.harvard.edu/certificates/6875fd2b-052c-4fd0-b5e8-7b31f6f44857" target="_blank">
+    <img src="https://img.shields.io/badge/CS50P-Certified-A51C30?style=for-the-badge&logo=harvard&logoColor=white" height="45" alt="CS50P Certificate" style="vertical-align:middle; margin:10px;" />
   </a>
 </p>
 
 <p align="center">
-  🎖️ <b>Microsoft AI Skills Fest 2026</b><br>
-  Official digital credential issued through Microsoft and Credly.
+  🎖️ <b>Microsoft AI Skills Fest 2026</b> — Issued via Microsoft & Credly <br>
+  🎓 <b>HarvardX CS50P</b> — Introduction to Programming with Python (<a href="https://cs50.harvard.edu/certificates/6875fd2b-052c-4fd0-b5e8-7b31f6f44857" target="_blank">Verify Here</a>)
 </p>
 
-<p align="center">
-  <a
-href="https://cs50.harvard.edu/certificates/6875fd2b-052c-4fd0-b5e8-7b31f6f44857" target="_blank">
-  <img src="./ai-skills-fest-2026.png" width="220" alt="Microsoft AI Skills Fest 2026 Badge" />
-
-  </a>
-</p>
 ### Achievements
 
+- 🎓 **HarvardX CS50P Certified** (Introduction to Programming with Python)
 - 🎖️ Microsoft AI Skills Fest 2026 Badge
 - 🏆 Hackathon Participant
 - ♿ Creator of AccessBridge
@@ -82,9 +78,7 @@ Accessibility-focused desktop assistant designed to help users interact with com
 
 **Tech Used:** Python
 
-🔗 **Repository:** 
-[AccessBridge]
-(https://github.com/GOKULNATH20072008/AccessBridge)
+🔗 **Repository:** [AccessBridge](https://github.com/GOKULNATH20072008/AccessBridge)
 
 ---
 
