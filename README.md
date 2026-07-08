@@ -118,8 +118,8 @@ Participated in online hackathons and built practical software solutions while l
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOKULNATH20072008&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKULNATH20072008&layout=compact&theme=github_dark"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=GOKULNATH20072008&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GOKULNATH20072008&layout=compact&theme=github_dark"/>
 </p>
 
 ---
