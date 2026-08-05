@@ -35,6 +35,9 @@
   <a href="https://www.credly.com/badges/61e95310-c846-4c93-942e-fd31c04e6e18/public_url" target="_blank">
     <img src="./ai-skills-fest-2026.png" width="180" alt="Microsoft AI Skills Fest 2026 Badge" style="vertical-align:middle; margin:10px;" />
   </a>
+  <a href="https://globalai.community/badges/4dc37738-5799-4b44-a017-66e984390f6f" target="_blank">
+    <img src="./badge.jpg" width="180" alt="Microsoft Agent League - Creative Apps Badge" style="vertical-align:middle; margin:10px;" />
+  </a>
   <a href="https://cs50.harvard.edu/certificates/6875fd2b-052c-4fd0-b5e8-7b31f6f44857" target="_blank">
     <img src="https://img.shields.io/badge/CS50P-Certified-A51C30?style=for-the-badge&logo=harvard&logoColor=white" height="45" alt="CS50P Certificate" style="vertical-align:middle; margin:10px;" />
   </a>
@@ -42,6 +45,7 @@
 
 <p align="center">
   🎖️ <b>Microsoft AI Skills Fest 2026</b> — Issued via Microsoft & Credly <br>
+  🤖 <b>Microsoft Agent League – Creative Apps</b> (<a href="https://globalai.community/badges/4dc37738-5799-4b44-a017-66e984390f6f" target="_blank">Verify Badge</a>) <br>
   🎓 <b>HarvardX CS50P</b> — Introduction to Programming with Python (<a href="https://cs50.harvard.edu/certificates/6875fd2b-052c-4fd0-b5e8-7b31f6f44857" target="_blank">Verify Here</a>)
 </p>
 
@@ -49,6 +53,7 @@
 
 - 🎓 **HarvardX CS50P Certified** (Introduction to Programming with Python)
 - 🎖️ Microsoft AI Skills Fest 2026 Badge
+- 🤖 Microsoft Agent League – Creative Apps Badge
 - 🏆 Hackathon Participant
 - ♿ Creator of AccessBridge
 - 💻 Multiple Personal Python Projects
