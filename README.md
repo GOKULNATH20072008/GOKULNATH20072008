@@ -5,6 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0f766e&size=24&center=true&vCenter=true&width=700&lines=Student+Developer;Python+Programmer;Building+Projects+and+Learning+Everyday;CS50P+Graduate" />
 </p>
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
+</p>
 
 <h3 align="center">💻 Student Developer | Python Enthusiast</h3>
 
