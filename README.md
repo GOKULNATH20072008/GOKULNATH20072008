@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&height=170&section=header&text=Gokulnath%20S&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Python%20%26%20AI%20Backend%20Developer%20%7C%20B.E.%20CSE&descAlignY=60&descSize=16" alt="Gokulnath S - Python and AI Backend Developer" />
+  <img src="assets/banner.svg" width="100%" alt="Gokulnath S - Python and AI Backend Developer" />
 </p>
 
 <p align="center">
@@ -94,26 +94,14 @@ An accessibility project for people who can't comfortably use a standard keyboar
 - Linux administration and cybersecurity fundamentals
 - Turning AccessBridge into an embeddable web widget
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GOKULNATH20072008&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf" alt="GitHub stats" />
-</p>
-
----
-
 ## Connect
 
 I'm open to internships, open-source collaboration and hackathon teams. The fastest way to reach me is through GitHub.
 
 <p>
   <a href="https://github.com/GOKULNATH20072008"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="www.linkedin.com/in/gokulnath-s08"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/gokulnath-s08"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:gokulnath20072008@gmail.com"><img src="https://img.shields.io/badge/Email-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&height=90&section=footer" alt="" />
-</p>
+<p align="center"><sub>Build, learn, improve, repeat.</sub></p>
